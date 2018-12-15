@@ -10,23 +10,18 @@
 + [Акции и скидки](https://verespro.github.io/Homework-Polygraphy/stock)
 
 
-Обзор страниц:
-![](images/01.jpg)
+# Обзор страниц:
 
+![](images/01.jpg)
 
 ![](images/02.png)
 
-
 ![](images/03.png)
-
 
 ![](images/04.png)
 
-
 ![](images/05.png)
 
-
 ![](images/06.png)
-
 
 ![](images/07.png)
